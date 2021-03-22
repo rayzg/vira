@@ -11,9 +11,9 @@
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 256.54001 180.34"
-   height="511.20001pt"
-   width="727.20001pt"
+   viewBox="0 0 254.00001 152.96444"
+   height="433.60001pt"
+   width="720pt"
    inkscape:export-filename="C:\mine\vira-github\vira\playingcards.io\vira-in-levels.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
@@ -47,11 +47,11 @@
      inkscape:window-width="2880"
      inkscape:snap-grids="true"
      units="pt"
-     showgrid="false"
-     inkscape:current-layer="layer18"
+     showgrid="true"
+     inkscape:current-layer="layer9"
      inkscape:document-units="pt"
-     inkscape:cy="339.19505"
-     inkscape:cx="548.00892"
+     inkscape:cy="290.4"
+     inkscape:cx="634.29307"
      inkscape:zoom="1.5576761"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -73,7 +73,7 @@
        id="grid10"
        type="xygrid"
        originx="0"
-       originy="0.635" />
+       originy="0" />
     <sodipodi:guide
        position="-114.3,80.009995"
        orientation="1,0"
@@ -103,9 +103,9 @@
   <defs
      id="defs2">
     <rect
-       x="234.58552"
+       x="234.58553"
        y="118.48817"
-       width="7.0674336"
+       width="7.0674338"
        height="4.3673682"
        id="rect2138" />
     <rect
@@ -349,7 +349,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="page border"
-     transform="translate(-11.43,-17.779997)">
+     transform="translate(-12.699997,-31.114996)">
     <path
        id="rect2314-0"
        style="display:inline;fill:none;stroke:none;stroke-width:0.352777;stroke-miterlimit:44.9553;paint-order:markers fill stroke"
@@ -360,27 +360,26 @@
      id="layer9"
      inkscape:label="background"
      style="display:none"
-     transform="translate(-16.51,-33.019997)"
-     sodipodi:insensitive="true">
+     transform="translate(-17.779997,-46.354996)">
     <rect
        style="fill:#c8b7b7;stroke:none;stroke-width:0;stroke-miterlimit:44.9553;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect1645"
        width="254"
-       height="165.10001"
+       height="153.67"
        x="17.779997"
-       y="40.639996" />
+       y="46.354996" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="dividing line"
-     transform="translate(-11.43,-17.779997)" />
+     transform="translate(-12.699997,-31.114996)" />
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="bid box"
      style="display:inline"
-     transform="translate(-16.51,-33.019997)">
+     transform="translate(-17.779997,-46.354996)">
     <path
        id="rect3889"
        style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.0705556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:44.9553;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
@@ -747,7 +746,7 @@
      id="layer20"
      inkscape:groupmode="layer"
      style="display:inline"
-     transform="translate(-21.590001,-2.5399969)">
+     transform="translate(-22.859998,-15.874996)">
     <g
        inkscape:groupmode="layer"
        id="layer22"
@@ -1248,13 +1247,13 @@
      id="layer6"
      inkscape:label="outer boxes"
      style="display:inline"
-     transform="translate(-21.590001,-2.5399969)" />
+     transform="translate(-22.859998,-15.874996)" />
   <g
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="card"
      style="display:inline"
-     transform="translate(-16.51,-33.019997)">
+     transform="translate(-17.779997,-46.354996)">
     <path
        id="rect6459"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:44.9553;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -1353,7 +1352,7 @@
      id="layer13"
      inkscape:label="center box"
      style="display:none"
-     transform="translate(-16.51,-33.019997)">
+     transform="translate(-17.779997,-46.354996)">
     <rect
        style="fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:44.9553;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect10247"
@@ -1612,7 +1611,7 @@
      inkscape:label="text"
      id="layer2"
      inkscape:groupmode="layer"
-     transform="translate(-21.590001,-2.5399969)">
+     transform="translate(-22.859998,-15.874996)">
     <text
        id="text2813"
        y="58.63546"
@@ -3126,8 +3125,7 @@
          id="path2697" />
     </g>
     <g
-       aria-label="=48
-=16/player "
+       aria-label="=48 =16/player "
        id="text4441"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583">
       <path
@@ -3184,10 +3182,7 @@
          id="path2725" />
     </g>
     <g
-       aria-label="Balanced hand:
-  4-3-3-3
-  4-4-3-2
-  5-3-3-2"
+       aria-label="Balanced hand:   4-3-3-3   4-4-3-2   5-3-3-2"
        id="text4445"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:105%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583">
       <path
@@ -3434,7 +3429,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.264583"
          id="path2821" />
       <path
-         d="m 67.44547,105.41 v -1.2827 c 0,-0.66039 -0.397933,-0.88899 -0.757766,-0.88899 -0.198966,0 -0.381,0.072 -0.529166,0.21166 l -0.0085,-0.18626 H 65.790238 V 105.41 h 0.381 v -1.31233 c 0.0508,-0.41063 0.283633,-0.4953 0.469899,-0.4953 0.186267,0 0.423333,0.0889 0.423333,0.56303 v 1.2446 z"
+         d="m 67.44547,105.41 v -1.2827 c 0,-0.66039 -0.397933,-0.88899 -0.757766,-0.88899 -0.198966,0 -0.381,0.072 -0.529166,0.21166 l -0.0085,-0.18626 h -0.3598 V 105.41 h 0.381 v -1.31233 c 0.0508,-0.41063 0.283633,-0.4953 0.469899,-0.4953 0.186267,0 0.423333,0.0889 0.423333,0.56303 v 1.2446 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.264583"
          id="path2823" />
       <path
@@ -5299,14 +5294,14 @@
     <text
        xml:space="preserve"
        id="text2136"
-       style="font-family:'Sweden Sans';font-size:4.23333322px;line-height:100%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Sweden Sans, Normal';writing-mode:lr;white-space:pre;shape-inside:url(#rect2138);" />
+       style="font-size:4.23333px;line-height:100%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect2138);" />
   </g>
   <g
      style="display:inline"
      inkscape:label="dividing lines"
      id="layer7"
      inkscape:groupmode="layer"
-     transform="translate(-21.590001,-2.5399969)">
+     transform="translate(-22.859998,-15.874996)">
     <path
        id="rect3132"
        style="fill:none;stroke:#000000;stroke-width:0.35278;stroke-linejoin:miter;stroke-miterlimit:44.9553;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -5412,14 +5407,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="colour"
-     transform="translate(-21.590001,-2.5399969)"
+     transform="translate(-22.859998,-15.874996)"
      style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="bid name"
      style="display:inline"
-     transform="translate(-21.590001,-2.5399969)">
+     transform="translate(-22.859998,-15.874996)">
     <g
        aria-label="Gök"
        id="text1377"
@@ -5470,7 +5465,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:90%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
          id="path3463" />
       <path
-         d="m 71.909519,29.815358 c -0.0508,-0.0042 -0.1143,-0.0085 -0.1651,-0.0085 -0.215899,0 -0.406399,0.1016 -0.558799,0.3175 l -0.0127,-0.2921 h -0.359833 v 2.146298 h 0.381 v -1.202266 c 0.05503,-0.461433 0.300566,-0.554566 0.499532,-0.554566 0.06773,0 0.127,0.0085 0.173567,0.0254 z"
+         d="m 71.909519,29.815358 c -0.0508,-0.0042 -0.1143,-0.0085 -0.1651,-0.0085 -0.215899,0 -0.406399,0.1016 -0.558799,0.3175 l -0.0127,-0.2921 h -0.359833 v 2.146298 h 0.381 V 30.77629 c 0.05503,-0.461433 0.300566,-0.554566 0.499532,-0.554566 0.06773,0 0.127,0.0085 0.173567,0.0254 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:90%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
          id="path3465" />
       <path
@@ -5644,8 +5639,7 @@
          id="path3535" />
     </g>
     <g
-       aria-label="Solo
-misär"
+       aria-label="Solo misär"
        id="text6142"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.264583">
       <path
@@ -5869,7 +5863,7 @@ misär"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:120%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
          id="path3616" />
       <path
-         d="m 167.87071,92.062057 c -0.0508,-0.0042 -0.1143,-0.0085 -0.1651,-0.0085 -0.2159,0 -0.4064,0.1016 -0.5588,0.3175 l -0.0127,-0.2921 h -0.35984 v 2.146298 h 0.381 v -1.202265 c 0.055,-0.461433 0.30057,-0.554566 0.49954,-0.554566 0.0677,0 0.127,0.0085 0.17356,0.0254 z"
+         d="m 167.87071,92.062057 c -0.0508,-0.0042 -0.1143,-0.0085 -0.1651,-0.0085 -0.2159,0 -0.4064,0.1016 -0.5588,0.3175 l -0.0127,-0.2921 h -0.35984 v 2.146298 h 0.381 V 93.02299 c 0.055,-0.461433 0.30057,-0.554566 0.49954,-0.554566 0.0677,0 0.127,0.0085 0.17356,0.0254 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:120%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
          id="path3618" />
       <path
@@ -5993,8 +5987,7 @@ misär"
          id="path3662" />
     </g>
     <g
-       aria-label="Vingel
-"
+       aria-label="Vingel "
        id="text6068"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.264583">
       <path
@@ -6023,8 +6016,7 @@ misär"
          id="path3675" />
     </g>
     <g
-       aria-label="9
-"
+       aria-label="9 "
        id="text6088"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.264583">
       <path
@@ -6088,7 +6080,7 @@ misär"
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="notes"
-     transform="translate(-21.590001,-2.5399969)"
+     transform="translate(-22.859998,-15.874996)"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -6221,13 +6213,7 @@ misär"
          y="139.7"
          style="stroke-width:0.264583" /></text>
     <g
-       aria-label="
-
-2
-4 x
-6 x x
-8 x x x
-10 x x x x"
+       aria-label="  2 4 x 6 x x 8 x x x 10 x x x x"
        id="text7623-4"
        style="font-size:4.23333px;line-height:105%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">
       <path
@@ -6296,13 +6282,7 @@ misär"
          id="path3732" />
     </g>
     <g
-       aria-label="
-
-void
-3 
-5 x 
-7 x x 
-9 x x x"
+       aria-label="  void 3  5 x  7 x x  9 x x x"
        id="text8514-7"
        style="font-size:4.23333px;line-height:105%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">
       <path
@@ -6363,13 +6343,7 @@ void
          id="path3761" />
     </g>
     <g
-       aria-label="A K
-A Q
-A J x
-A 10 x x
-A 9 x x x
-K Q x
-K J x"
+       aria-label="A K A Q A J x A 10 x x A 9 x x x K Q x K J x"
        id="text9013-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:105%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;stroke-width:0.264583">
       <path
@@ -6466,13 +6440,7 @@ K J x"
          id="path3809" />
     </g>
     <g
-       aria-label="K 10 x x
-K 9 x x x
-Q J x x
-Q 10 x x
-Q 9 x x x
-J 10 x x x
-J 9 x x x"
+       aria-label="K 10 x x K 9 x x x Q J x x Q 10 x x Q 9 x x x J 10 x x x J 9 x x x"
        id="text1838-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:105%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;stroke-width:0.264583">
       <path
@@ -6617,13 +6585,7 @@ J 9 x x x"
          id="path3881" />
     </g>
     <g
-       aria-label="
-
-A
-K x
-Q x x
-J x x x
-10 x x x x"
+       aria-label="  A K x Q x x J x x x 10 x x x x"
        id="text8562-8"
        style="font-size:4.23333px;line-height:105%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;stroke-width:0.264583">
       <path
@@ -6867,7 +6829,7 @@ J x x x
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23224px;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
          id="path3993" />
       <path
-         d="m 71.877047,95.818817 0.06772,-0.347044 h -0.444385 l 0.35974,-1.798702 h -0.825287 l -0.06771,0.347044 h 0.444385 l -0.292025,1.451658 h -0.444385 l -0.06772,0.347044 z m 0.186219,-2.767885 c 0.02963,-0.148128 -0.06772,-0.270863 -0.215844,-0.270863 -0.148129,0 -0.292025,0.122735 -0.321651,0.270863 -0.02963,0.148128 0.06348,0.266631 0.211612,0.266631 0.148129,0 0.296257,-0.118503 0.325883,-0.266631 z"
+         d="m 71.877047,95.818817 0.06772,-0.347044 h -0.444385 l 0.35974,-1.798702 h -0.825287 l -0.06771,0.347044 h 0.444385 l -0.292025,1.451658 H 70.6751 l -0.06772,0.347044 z m 0.186219,-2.767885 c 0.02963,-0.148128 -0.06772,-0.270863 -0.215844,-0.270863 -0.148129,0 -0.292025,0.122735 -0.321651,0.270863 -0.02963,0.148128 0.06348,0.266631 0.211612,0.266631 0.148129,0 0.296257,-0.118503 0.325883,-0.266631 z"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23224px;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
          id="path3995" />
       <path
@@ -6929,7 +6891,7 @@ J x x x
      id="layer15"
      inkscape:label="temp"
      style="display:none"
-     transform="translate(-11.43,-17.779997)">
+     transform="translate(-12.699997,-31.114996)">
     <rect
        y="43.196503"
        x="193.03999"
@@ -8070,7 +8032,7 @@ J x x x
      id="layer5"
      inkscape:label="poker card"
      style="display:none"
-     transform="translate(-11.43,-17.779997)">
+     transform="translate(-12.699997,-31.114996)">
     <rect
        y="19.050005"
        x="12.699996"
