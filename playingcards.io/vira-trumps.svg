@@ -23,13 +23,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.6832524"
+     inkscape:zoom="7.5731618"
      inkscape:cx="74.950624"
      inkscape:cy="93.784789"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -39,7 +39,11 @@
      inkscape:window-height="1526"
      inkscape:window-x="2869"
      inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid39" />
+  </sodipodi:namedview>
   <metadata
      id="metadata2373">
     <rdf:RDF>
@@ -217,20 +221,16 @@
        inkscape:export-filename="C:\mine\vira-github\vira\playingcards.io\vira-in-levels.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.46362px;line-height:120%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583"
-       x="-394.47571"
-       y="-122.72298"
+    <g
+       aria-label="🚫"
        id="text1730"
-       inkscape:export-filename="C:\mine\vira-github\vira\playingcards.io\vira-in-levels.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600"><tspan
-         sodipodi:role="line"
-         x="-394.47571"
-         y="-122.72298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.46362px;line-height:120%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583"
+       transform="translate(0.15872439,0.15875685)">
+      <path
+         d="m -394.47571,-128.16719 q 0.43869,0 0.84267,0.11362 0.40713,0.11362 0.75746,0.32192 0.35348,0.20514 0.64383,0.4955 0.29036,0.29036 0.49551,0.64384 0.2083,0.35032 0.32191,0.75745 0.11362,0.40398 0.11362,0.84267 0,0.4387 -0.11362,0.84583 -0.11361,0.40397 -0.32191,0.75745 -0.20515,0.35033 -0.49551,0.64068 -0.29035,0.29036 -0.64383,0.49551 -0.35033,0.2083 -0.75746,0.32192 -0.40398,0.11361 -0.84267,0.11361 -0.43869,0 -0.84582,-0.11361 -0.40398,-0.11362 -0.75746,-0.32192 -0.35032,-0.20515 -0.64068,-0.49551 -0.29036,-0.29035 -0.49866,-0.64068 -0.20514,-0.35348 -0.31876,-0.75745 -0.11362,-0.40713 -0.11362,-0.84583 0,-0.43869 0.11362,-0.84267 0.11362,-0.40713 0.31876,-0.75745 0.2083,-0.35348 0.49866,-0.64384 0.29036,-0.29036 0.64068,-0.4955 0.35348,-0.2083 0.75746,-0.32192 0.40713,-0.11362 0.84582,-0.11362 z m -2.72368,3.175 q 0,0.37557 0.0978,0.72274 0.0978,0.34717 0.27457,0.65015 0.17674,0.30298 0.42607,0.55231 0.24933,0.24933 0.55231,0.42607 0.30299,0.17674 0.65015,0.27458 0.34717,0.0978 0.72274,0.0978 0.48604,0 0.9342,-0.16727 0.45131,-0.16412 0.82057,-0.47973 l -3.83146,-3.83146 q -0.3156,0.36926 -0.48288,0.82058 -0.16411,0.44816 -0.16411,0.93419 z m 4.80037,1.75477 q 0.31561,-0.37241 0.47972,-0.81742 0.16412,-0.44816 0.16412,-0.93735 0,-0.37557 -0.0978,-0.72274 -0.0978,-0.34716 -0.27458,-0.65015 -0.17674,-0.30298 -0.42606,-0.54915 -0.24618,-0.24933 -0.54916,-0.42607 -0.30298,-0.17674 -0.65015,-0.27458 -0.34717,-0.0978 -0.72274,-0.0978 -0.48919,0 -0.93735,0.16411 -0.445,0.16412 -0.81742,0.47972 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.46362px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         id="tspan1728">🚫</tspan></text>
+         id="path36" />
+    </g>
     <path
        inkscape:connector-curvature="0"
        style="display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.0705556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:normal"
@@ -252,7 +252,7 @@
        inkscape:export-xdpi="150.03937"
        inkscape:export-filename="C:\mine\tarot\tarot-git\tarot\playingcards.io\le-plateau\le-plateau-board-heptagon.png"
        id="path4449"
-       d="m -394.31715,-119.1184 -2.36681,2.79991 h 2.1e-4 a 1.3419125,1.3419125 0 0 0 -0.31721,0.86627 1.3419125,1.3419125 0 0 0 1.34194,1.34193 1.3419125,1.3419125 0 0 0 1.16374,-0.6772 l -0.541,2.01909 h 1.43825 l -0.54041,-2.0169 a 1.3419125,1.3419125 0 0 0 1.16321,0.67501 1.3419125,1.3419125 0 0 0 1.3419,-1.34193 1.3419125,1.3419125 0 0 0 -0.3172,-0.86627 h 1.6e-4 z"
+       d="m -394.31717,-119.11839 -2.36681,2.79991 h 2.1e-4 a 1.3419125,1.3419125 0 0 0 -0.31721,0.86627 1.3419125,1.3419125 0 0 0 1.34194,1.34193 1.3419125,1.3419125 0 0 0 1.16374,-0.6772 l -0.541,2.01909 h 1.43825 l -0.54041,-2.0169 a 1.3419125,1.3419125 0 0 0 1.16321,0.67501 1.3419125,1.3419125 0 0 0 1.3419,-1.34193 1.3419125,1.3419125 0 0 0 -0.3172,-0.86627 h 1.6e-4 z"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0705556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:normal"
        inkscape:connector-curvature="0" />
     <path

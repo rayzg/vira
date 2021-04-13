@@ -23,13 +23,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56597561"
-     inkscape:cx="-220.35505"
-     inkscape:cy="138.44633"
+     inkscape:zoom="4.472643"
+     inkscape:cx="85.69979"
+     inkscape:cy="95.210604"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -39,7 +39,11 @@
      inkscape:window-height="1526"
      inkscape:window-x="2869"
      inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid62" />
+  </sodipodi:namedview>
   <metadata
      id="metadata2486">
     <rdf:RDF>
@@ -68,17 +72,11 @@
        x="-120.60238"
        y="113.1305"
        transform="rotate(-90)" />
-    <rect
-       inkscape:export-ydpi="600"
-       inkscape:export-xdpi="600"
-       inkscape:export-filename="C:\mine\vira-github\vira\playingcards.io\vira-in-levels.png"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0705554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:44.9553;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+    <path
        id="rect2211"
-       width="8.8899641"
-       height="8.8900013"
-       x="-113.13056"
-       y="-120.60247"
-       transform="scale(-1)" />
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0705554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:44.9553;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       transform="scale(-1)"
+       d="m -113.13056,-120.60247 h 8.88996 v 8.89 h -8.88996 z" />
     <rect
        inkscape:export-ydpi="600"
        inkscape:export-xdpi="600"
@@ -90,17 +88,11 @@
        x="-129.49252"
        y="113.13059"
        transform="rotate(-90)" />
-    <rect
-       inkscape:export-ydpi="600"
-       inkscape:export-xdpi="600"
-       inkscape:export-filename="C:\mine\vira-github\vira\playingcards.io\vira-in-levels.png"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0705554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:44.9553;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+    <path
        id="rect2215"
-       width="8.8900175"
-       height="8.8899946"
-       x="-113.13059"
-       y="-129.49245"
-       transform="scale(-1)" />
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0705554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:44.9553;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       transform="scale(-1)"
+       d="m -113.13059,-129.49245 h 8.89002 v 8.89 h -8.89002 z" />
     <rect
        inkscape:export-ydpi="600"
        inkscape:export-xdpi="600"
@@ -112,17 +104,11 @@
        x="-138.38252"
        y="113.13062"
        transform="rotate(-90)" />
-    <rect
-       inkscape:export-ydpi="600"
-       inkscape:export-xdpi="600"
-       inkscape:export-filename="C:\mine\vira-github\vira\playingcards.io\vira-in-levels.png"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0705554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:44.9553;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+    <path
        id="rect2219"
-       width="8.8900127"
-       height="8.8899908"
-       x="-113.13059"
-       y="-138.38246"
-       transform="scale(-1)" />
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0705554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:44.9553;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       transform="scale(-1)"
+       d="m -113.13059,-138.38246 h 8.89001 v 8.88999 h -8.89001 z" />
     <rect
        inkscape:export-ydpi="600"
        inkscape:export-xdpi="600"
@@ -201,5 +187,57 @@
        d="m 117.57553,130.76256 q 0.43869,0 0.84267,0.11361 0.40713,0.11361 0.75746,0.32192 0.35347,0.20515 0.64383,0.4955 0.29036,0.29036 0.49551,0.64384 0.2083,0.35033 0.32191,0.75746 0.11362,0.40397 0.11362,0.84267 0,0.43869 -0.11362,0.84582 -0.11361,0.40398 -0.32191,0.75746 -0.20515,0.35033 -0.49551,0.64068 -0.29036,0.29036 -0.64383,0.49551 -0.35033,0.2083 -0.75746,0.32192 -0.40398,0.11361 -0.84267,0.11361 -0.4387,0 -0.84583,-0.11361 -0.40398,-0.11362 -0.75746,-0.32192 -0.35032,-0.20515 -0.64068,-0.49551 -0.29036,-0.29035 -0.49866,-0.64068 -0.20514,-0.35348 -0.31876,-0.75746 -0.11361,-0.40713 -0.11361,-0.84582 0,-0.4387 0.11361,-0.84267 0.11361,-0.40713 0.31876,-0.75746 0.2083,-0.35348 0.49866,-0.64384 0.29036,-0.29035 0.64068,-0.4955 0.35348,-0.2083 0.75746,-0.32192 0.40713,-0.11361 0.84583,-0.11361 z m -2.72369,3.175 q 0,0.37558 0.0978,0.72275 0.0978,0.34716 0.27458,0.65015 0.17674,0.30298 0.42607,0.55231 0.24933,0.24933 0.55231,0.42607 0.30298,0.17674 0.65015,0.27458 0.34717,0.0978 0.72274,0.0978 0.48603,0 0.93419,-0.16728 0.45132,-0.16411 0.82058,-0.47972 l -3.83147,-3.83147 q -0.3156,0.36926 -0.48287,0.82058 -0.16412,0.44816 -0.16412,0.9342 z m 4.80038,1.75478 q 0.31561,-0.37242 0.47972,-0.81742 0.16412,-0.44816 0.16412,-0.93736 0,-0.37557 -0.0978,-0.72274 -0.0978,-0.34716 -0.27458,-0.65015 -0.17674,-0.30298 -0.42607,-0.54915 -0.24617,-0.24933 -0.54915,-0.42607 -0.30299,-0.17674 -0.65015,-0.27458 -0.34717,-0.0978 -0.72274,-0.0978 -0.48919,0 -0.93736,0.16412 -0.445,0.16411 -0.81742,0.47972 z"
        style="font-size:3.88056px;line-height:100%;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;stroke-width:0.264583"
        id="path6135" />
+    <g
+       aria-label="×1"
+       id="text66"
+       style="font-size:6.35px;line-height:100%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#cccccc;fill-opacity:1;stroke-width:0.264583">
+      <path
+         d="m 108.61255,117.42747 -1.0287,-1.02235 1.0287,-1.0287 -0.3556,-0.34925 -1.02235,1.02235 -1.0287,-1.0287 -0.34925,0.3556 1.0287,1.0287 -1.0287,1.02235 0.34925,0.3556 1.0287,-1.0287 1.02235,1.02235 z"
+         style="font-size:6.35px;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         id="path83" />
+      <path
+         d="m 111.5145,118.41807 v -0.5207 h -0.8509 v -4.0005 h -0.5842 l -0.81915,0.7366 0.17145,0.50165 0.6477,-0.5461 v 3.30835 h -0.8509 v 0.5207 z"
+         style="font-size:6.35px;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         id="path85" />
+    </g>
+    <g
+       aria-label="×2"
+       id="text70"
+       style="font-size:6.35px;line-height:100%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#cccccc;fill-opacity:1;stroke-width:0.264583">
+      <path
+         d="m 108.41253,126.3365 -1.0287,-1.02235 1.0287,-1.0287 -0.3556,-0.34925 -1.02235,1.02235 -1.0287,-1.0287 -0.34925,0.3556 1.0287,1.0287 -1.0287,1.02235 0.34925,0.3556 1.0287,-1.0287 1.02235,1.02235 z"
+         style="font-size:6.35px;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         id="path88" />
+      <path
+         d="m 111.71453,127.3271 v -0.6096 h -1.9812 l 1.2192,-1.31445 c 0.33655,-0.3683 0.6604,-0.6985 0.6604,-1.33985 0,-0.7874 -0.4953,-1.2954 -1.28905,-1.2954 -0.81915,0 -1.37795,0.5334 -1.37795,1.4859 h 0.5969 c 0,-0.5842 0.28575,-0.9271 0.78105,-0.9271 0.4699,0 0.69215,0.31115 0.69215,0.762 0,0.33655 -0.127,0.55245 -0.45085,0.9017 l -1.6637,1.77165 v 0.56515 z"
+         style="font-size:6.35px;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         id="path90" />
+    </g>
+    <g
+       aria-label="×3"
+       id="text74"
+       style="font-size:6.35px;line-height:100%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#cccccc;fill-opacity:1;stroke-width:0.264583">
+      <path
+         d="m 108.42841,135.20746 -1.0287,-1.02235 1.0287,-1.0287 -0.3556,-0.34925 -1.02235,1.02235 -1.0287,-1.0287 -0.34925,0.3556 1.0287,1.0287 -1.0287,1.02235 0.34925,0.3556 1.0287,-1.0287 1.02235,1.02235 z"
+         style="font-size:6.35px;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         id="path93" />
+      <path
+         d="m 108.98086,134.94076 c 0,0.8382 0.5588,1.2954 1.37795,1.2954 0.8128,0 1.33985,-0.4572 1.33985,-1.28905 0,-0.50165 -0.1905,-0.8763 -0.56515,-1.0922 0.3175,-0.1905 0.48895,-0.4826 0.48895,-0.94615 0,-0.8001 -0.50165,-1.27 -1.27,-1.27 -0.79375,0 -1.3208,0.4572 -1.3208,1.2954 h 0.5969 c 0,-0.4699 0.254,-0.7366 0.7239,-0.7366 0.43815,0 0.6731,0.27305 0.6731,0.7239 0,0.45085 -0.23495,0.6858 -0.6731,0.6858 h -0.1905 v 0.5461 h 0.1905 c 0.4953,0 0.7493,0.29845 0.7493,0.78105 0,0.47625 -0.24765,0.74295 -0.74295,0.74295 -0.4953,0 -0.78105,-0.2667 -0.78105,-0.7366 z"
+         style="font-size:6.35px;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         id="path95" />
+    </g>
+    <g
+       aria-label="×4"
+       id="text78"
+       style="font-size:6.35px;line-height:100%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#cccccc;fill-opacity:1;stroke-width:0.264583">
+      <path
+         d="m 108.37126,144.09747 -1.0287,-1.02235 1.0287,-1.0287 -0.3556,-0.34925 -1.02235,1.02235 -1.0287,-1.0287 -0.34925,0.3556 1.0287,1.0287 -1.0287,1.02235 0.34925,0.3556 1.0287,-1.0287 1.02235,1.02235 z"
+         style="font-size:6.35px;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         id="path98" />
+      <path
+         d="m 111.25416,145.08807 v -0.95885 h 0.50165 v -0.5207 h -0.50165 v -3.04165 h -0.6477 l -1.778,3.1369 v 0.42545 h 1.8415 v 0.95885 z m -0.5842,-1.47955 h -1.1557 l 1.1557,-2.02565 z"
+         style="font-size:6.35px;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         id="path100" />
+    </g>
   </g>
 </svg>
