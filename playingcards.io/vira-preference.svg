@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.472643"
-     inkscape:cx="85.69979"
-     inkscape:cy="95.210604"
+     inkscape:zoom="9.6586368"
+     inkscape:cx="34.266779"
+     inkscape:cy="67.866737"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -106,7 +106,7 @@
        transform="rotate(-90)" />
     <path
        id="rect2219"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0705554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:44.9553;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="display:inline;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.0705554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:44.9553;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        transform="scale(-1)"
        d="m -113.13059,-138.38246 h 8.89001 v 8.88999 h -8.89001 z" />
     <rect
@@ -216,14 +216,14 @@
     <g
        aria-label="×3"
        id="text74"
-       style="font-size:6.35px;line-height:100%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#cccccc;fill-opacity:1;stroke-width:0.264583">
+       style="font-size:6.35px;line-height:100%;font-family:'Sweden Sans';-inkscape-font-specification:'Sweden Sans, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">
       <path
          d="m 108.42841,135.20746 -1.0287,-1.02235 1.0287,-1.0287 -0.3556,-0.34925 -1.02235,1.02235 -1.0287,-1.0287 -0.34925,0.3556 1.0287,1.0287 -1.0287,1.02235 0.34925,0.3556 1.0287,-1.0287 1.02235,1.02235 z"
-         style="font-size:6.35px;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         style="font-size:6.35px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          id="path93" />
       <path
          d="m 108.98086,134.94076 c 0,0.8382 0.5588,1.2954 1.37795,1.2954 0.8128,0 1.33985,-0.4572 1.33985,-1.28905 0,-0.50165 -0.1905,-0.8763 -0.56515,-1.0922 0.3175,-0.1905 0.48895,-0.4826 0.48895,-0.94615 0,-0.8001 -0.50165,-1.27 -1.27,-1.27 -0.79375,0 -1.3208,0.4572 -1.3208,1.2954 h 0.5969 c 0,-0.4699 0.254,-0.7366 0.7239,-0.7366 0.43815,0 0.6731,0.27305 0.6731,0.7239 0,0.45085 -0.23495,0.6858 -0.6731,0.6858 h -0.1905 v 0.5461 h 0.1905 c 0.4953,0 0.7493,0.29845 0.7493,0.78105 0,0.47625 -0.24765,0.74295 -0.74295,0.74295 -0.4953,0 -0.78105,-0.2667 -0.78105,-0.7366 z"
-         style="font-size:6.35px;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         style="font-size:6.35px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          id="path95" />
     </g>
     <g
