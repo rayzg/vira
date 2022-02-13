@@ -47,9 +47,9 @@
      showgrid="false"
      inkscape:current-layer="layer27"
      inkscape:document-units="pt"
-     inkscape:cy="419.71481"
-     inkscape:cx="562.7994"
-     inkscape:zoom="0.99591435"
+     inkscape:cy="259.72479"
+     inkscape:cx="251.27528"
+     inkscape:zoom="3.8463791"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -3993,17 +3993,17 @@
          id="tspan40338"
          style="font-size:3.88056px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="99.37751"
-         y="24.130001">6. Abandonner?</tspan><tspan
+         y="24.130001">6. Les adversaires</tspan><tspan
          sodipodi:role="line"
          style="font-size:3.88056px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="99.37751"
          y="28.575001"
-         id="tspan41554">7. Les adversaires</tspan><tspan
+         id="tspan44311">      achètent</tspan><tspan
          sodipodi:role="line"
          style="font-size:3.88056px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="99.37751"
          y="33.02"
-         id="tspan90033">    achètent </tspan><tspan
+         id="tspan90033">7. Abandonner? </tspan><tspan
          sodipodi:role="line"
          style="font-size:3.88056px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="99.37751"
@@ -5917,7 +5917,7 @@
        y="83.820007"
        id="text307319"><tspan
          sodipodi:role="line"
-         style="font-size:3.88056px;text-align:start;text-anchor:start;stroke-width:0.264583;font-weight:normal"
+         style="font-weight:normal;font-size:3.88056px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="72.072502"
          y="83.820007"
          id="tspan307317">=<tspan
@@ -5926,9 +5926,9 @@
    style="font-style:normal"
    id="tspan315307"> × </tspan>valeur</tspan></tspan><tspan
          sodipodi:role="line"
-         style="font-size:3.88056px;text-align:start;text-anchor:start;stroke-width:0.264583;font-weight:normal;font-style:italic"
+         style="font-style:italic;font-weight:normal;font-size:3.88056px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="72.072502"
          y="88.265007"
-         id="tspan310117">    de couler </tspan></text>
+         id="tspan310117">    de couleur </tspan></text>
   </g>
 </svg>
